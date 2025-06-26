@@ -26,5 +26,4 @@ public class InvoiceApplicationV1 {
         
         sc.close();
 	}
-
 }
