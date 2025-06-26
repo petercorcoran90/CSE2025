@@ -1,0 +1,17 @@
+# Eclipse-specific
+.metadata/
+*.log
+
+# Java class files
+*.class
+
+# Backup files
+*~ 
+
+# Build output directories
+/bin/
+/target/
+
+# VS Code or other IDE folders (optional)
+.vscode/
+.idea/
